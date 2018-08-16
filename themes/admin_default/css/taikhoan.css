@@ -1,0 +1,18 @@
+/**
+ * @Project NUKEVIET 4.x
+ * @Author MyNukeViet (contact@mynukeviet.com)
+ * @Copyright (C) 2016 MyNukeViet. All rights reserved
+ * @Createdate Mon, 04 Apr 2011 06:38:53 GMT
+ */
+input.required[type="text"], input.required[type="password"], input.required[type="email"],
+	input.required[type="number"], input.required[type="search"], input.required[type="tel"],
+	input.required[type="time"], input.required[type="url"], input.required[type="url"],
+	textarea.required, select.required, label.required {
+	background-image: url("../images/taikhoan/required.png");
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+.viewtransaction {
+	padding: 10px
+}
